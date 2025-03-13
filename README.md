@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Haii, aku Azzahra! Dulunya Siswi jurusan Farmasi, sekarang menjadi Mahasiswa Software Engineering
+## Kenalin, aku Azzahra! Dulunya Siswi jurusan Farmasi, sekarang Mahasiswa Software Engineering
 <div style="display: inline-block">
   <img align="center" alt="Zara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Zara-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
