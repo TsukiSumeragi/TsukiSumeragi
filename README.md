@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Kenalin, aku Azzahra! Dulunya Siswi jurusan Farmasi, sekarang Mahasiswi Software Engineering
+## I'm Azzahra—once a Pharmacy student, now a Software Engineering student in my 2nd semester, crafting code and building cool stuff!
 <div style="display: inline-block">
 <img align="center" alt="Zara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Zara-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
